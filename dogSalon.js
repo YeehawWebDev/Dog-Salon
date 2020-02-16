@@ -1,1 +1,1 @@
-console.log(`Welcome to the Dog Salon`);
+console.log(`Welcome to the Dog Salon`); 

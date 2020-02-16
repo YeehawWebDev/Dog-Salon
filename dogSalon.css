@@ -3,7 +3,7 @@
   --primary: white ;
   --dark: #333;
   --light: #F6F8FC;
-  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+  --shadow: 0 1px 5px rgba(104, 104, 104, 0.8); 
 }
 
 html {
