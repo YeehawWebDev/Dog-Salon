@@ -4,5 +4,6 @@
 
 .boxes {
   display: grid;
+  grid-area: auto;
   border: 1px solid black;
 }
