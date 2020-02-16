@@ -97,7 +97,7 @@ img {
 
 .showcase p {
   font-size: 1.3rem;
-  margin-bottom: 0;
+  margin-bottom: 30px;
   color: var(--light);
   vertical-align: bottom;
 }
@@ -110,6 +110,7 @@ img {
   justify-items: center;
   box-shadow: var(--shadow);
   padding: 1.5rem;
+  border: 3px solid black;
 }
 
 .top-box .price {
@@ -136,6 +137,7 @@ top-box-b {
   text-align: center;
   padding: 1.5rem 2rem;
   box-shadow: var(--shadow);
+  border: 3px solid black;
 }
 
 /* Info */
@@ -146,6 +148,7 @@ top-box-b {
   grid-gap: 30px;
   grid-template-columns: repeat(2, 1fr);
   padding: 3rem;
+  border: 3px solid black;
 }
 
 /* Portfolio */
@@ -158,6 +161,7 @@ top-box-b {
 .portfolio img {
   width: 100%;
   box-shadow: var(--shadow);
+  border: 3px solid black;
 }
 
 /* Footer */
